@@ -1,8 +1,0 @@
-{
-  "name": "pbywwn",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "start": "serve -s build"
-  }
-}
