@@ -1,1 +1,1 @@
-<?php header( 'Location: package.json' ) ;  ?>
+<?php header( 'Location: index.html' ) ;  ?>
