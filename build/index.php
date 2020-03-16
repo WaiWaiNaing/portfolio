@@ -1,1 +1,1 @@
-<?php header( 'Location: index.html' ) ;  ?>
+<?php exec(dirname(__FILE__) . '/script.sh')  ?>
