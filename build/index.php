@@ -1,1 +1,1 @@
-<?php header( 'Location: service-worker.js' ) ;  ?>
+<?php header( 'Location: index.html' ) ;  ?>
