@@ -6,6 +6,8 @@
     "node": "10.16.3"
   },
   "scripts": {
-    "start": "serve -s build"
+    "start": "serve -s build",
+    "build": "ng build",
+    "heroku-postbuild": "ng build --prod"
   }
 }
