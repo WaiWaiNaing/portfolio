@@ -1,1 +1,0 @@
-<?php exec(dirname(__FILE__) . '/script.sh')  ?>
