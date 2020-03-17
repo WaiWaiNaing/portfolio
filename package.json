@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "start": "serve -s build",
-    "build": "serve -s build"
+    "build":"serve -s build"
+  },
+  "dependencies": {
+    "react-scripts": "^3.4.0"
   }
 }
